@@ -1,0 +1,10 @@
+C:\Users\SERVER\Desktop\recaptcha\bin\Debug\recaptcha.exe.config
+C:\Users\SERVER\Desktop\recaptcha\bin\Debug\recaptcha.exe
+C:\Users\SERVER\Desktop\recaptcha\bin\Debug\recaptcha.pdb
+C:\Users\SERVER\Desktop\recaptcha\obj\Debug\recaptcha.csprojAssemblyReference.cache
+C:\Users\SERVER\Desktop\recaptcha\obj\Debug\recaptcha.Form1.resources
+C:\Users\SERVER\Desktop\recaptcha\obj\Debug\recaptcha.Properties.Resources.resources
+C:\Users\SERVER\Desktop\recaptcha\obj\Debug\recaptcha.csproj.GenerateResource.cache
+C:\Users\SERVER\Desktop\recaptcha\obj\Debug\recaptcha.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\recaptcha\obj\Debug\recaptcha.exe
+C:\Users\SERVER\Desktop\recaptcha\obj\Debug\recaptcha.pdb
